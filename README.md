@@ -16,23 +16,23 @@ Report Generation and PDF Export
 Audit Logs and Activity Monitoring
 SMS and Email Notification Integration
 
-**Purpose of the System**
+#**Purpose of the System**
 The purpose of this project is to automate office activities that are traditionally handled manually. The system helps organizations improve workflow management, communication, data security, and record keeping while minimizing operational delays and human errors.
 
-**Technologies Used**
+#**Technologies Used**
 Frontend
 HTML5
 CSS3
 JavaScript
 Bootstrap
 
-**Backend**
+#**Backend**
 PHP
 
-**Database**
+#**Database**
 MySQL
 
-**Modules Included**
+#**Modules Included**
 Authentication Module
 Dashboard Module
 Document Management Module
@@ -43,7 +43,7 @@ Reporting Module
 Notification Module
 User Management Module
 
-**Benefits of the System**
+#**Benefits of the System**
 Reduces paperwork
 Improves administrative efficiency
 Enhances communication and collaboration
@@ -52,7 +52,7 @@ Simplifies task and document tracking
 Generates accurate reports
 Saves time and operational cost
 
-**System Requirements**
+#**System Requirements**
 PHP 8+
 MySQL Database
 Apache Server (XAMPP/WAMP/LAMP)
